@@ -13,5 +13,6 @@ Conway's Law : 시스템이 설계되면, 그 시스템의 구조는 설계한 �
 Business Capabailities : 조직이 얼마나 빠르고 유연하게 변화에 대응할 수 있는지에 대한 능력
 
 https://microservices.io/index.html
-https://it-noongam.tistory.com/20
-https://velog.io/@suhongkim98/MSA%EC%99%80-DDD-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84%EB%9E%80-2
+MSA 이론 정리 : https://it-noongam.tistory.com/20
+DDD : https://happycloud-lee.tistory.com/94 , https://velog.io/@suhongkim98/MSA%EC%99%80-DDD-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84%EB%9E%80-2
+
