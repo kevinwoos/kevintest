@@ -8,3 +8,7 @@ Saga
 이벤트 스토밍
 - https://blog.doctor-cha.com/event-storming-how-and-why
 - https://intro.msaez.io/started/event-storming-learning/#-actor-yellow-sticker
+
+CQRS
+- https://ravendb.net/articles/cqrs-and-event-sourcing-made-easy-with-ravendb
+- https://sabarada.tistory.com/227
