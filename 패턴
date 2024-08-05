@@ -1,0 +1,10 @@
+Transactional Outbox Pattern
+- https://velog.io/@eastperson/Transaction-Outbox-Pattern-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0
+
+Saga
+- https://blog.naver.com/PostView.naver?blogId=leety72&logNo=221739596027&parentCategoryNo=&categoryNo=14&viewDate=&isShowPopularPosts=true&from=search
+- https://woongsin94.tistory.com/385
+
+이벤트 스토밍
+- https://blog.doctor-cha.com/event-storming-how-and-why
+- https://intro.msaez.io/started/event-storming-learning/#-actor-yellow-sticker
